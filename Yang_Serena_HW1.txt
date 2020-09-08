@@ -49,6 +49,6 @@ BookInStock
     should display 1.1 as $1.10 [10 points]
     should display 20 as $20.00 [10 points]
 
-Finished in 0.00972 seconds (files took 0.0923 seconds to load)
+Finished in 0.00998 seconds (files took 0.09395 seconds to load)
 34 examples, 0 failures
 
